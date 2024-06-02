@@ -1,0 +1,2 @@
+# quiz-app-by-snokey
+THIS IS A DUMMY PROJECT FOR MY INTERNSHIP
